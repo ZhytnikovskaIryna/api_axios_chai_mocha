@@ -8,7 +8,7 @@ describe("Get file count", async () => {
       {
         headers: {
           Authorization:
-            "Bearer sl.BwffW0HGBPIXV_Cd6rxUzBH4hDIz66eHPA23BPARdvrSaVlnJ_eFh1c03fpYU7Wq7eGnUc1-rkOMyjsmO4v9uEomHPxak2jrFlUNyaeypBJU-2_2UNa9udn0pxkiaZDHuFetZAhlsJfxvkLrEvDHEn0",
+            "Bearer sl.Bwfm1wBKbDNixxQz_uPbIGWWOnBvYALULhTqhwNMZIresWeyLY8HaWDciv98y-UuUXxnYuHHXCPkrkafh9rx9m2-MVh-xpOascf-ZGAWg1GJn0b0ELuZ_Fs9CkodxUO_MT2v2lNEKqa3plt5cVPcdiU",
         },
       }
     );
