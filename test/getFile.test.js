@@ -2,7 +2,7 @@ const axios = require("axios");
 const expect = require("chai").expect;
 const token =
   "Bearer " +
-  "sl.BwgOe-rQOxBGOBkUlcBqeo_CdPWYrjJSpdQAtaklG42hTbtWnvZyO7i5GAay1tBSdJ8ZyKxVVEns6UFDTj38q0lSF0wB--pAF495hlQrK3Hw2iJEBKOYBnA3_JbBlMBy6NtG-cJM85wUPucfqDnOn74";
+  "sl.Bwssgko4TOYuBj3YoJE4D7B5bKMm-AqgyHS8swj2NphUL67TY6AFUjBuTdG1rJeKh3sKThn_yCZ8pJJoMeJTuvuduAASnJsnYSklTyGF-CqI2cP2jUsUKyKDAD_J9iTSnBowRz-pDzpC5FL5JrhtzQg";
 
 describe("Dropbox basic api testing", async () => {
   it("Upload file", async () => {
