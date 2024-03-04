@@ -1,8 +1,7 @@
 const constants = {
   SUCCESS_CODE: 200,
-  FILE_PATH: {
-    path: "@../resources/file1.txt",
-  },
+  FILE_CONTENT: "Text for  file  content",
+  FILE_SIZE: 23,
   UPLOAD_FILE_HEADERS: {
     headers: {
       "Content-Type": "application/octet-stream",

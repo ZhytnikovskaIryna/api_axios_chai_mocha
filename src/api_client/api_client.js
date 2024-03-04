@@ -10,4 +10,9 @@ const instance = axios.create({
   },
 });
 
-module.exports = instance;
+const postApi = async (route, body, header) => {
+  return await instance.post(route, body, header);
+};
+
+//module.exports = instance;
+module.exports = postApi;
